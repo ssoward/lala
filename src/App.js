@@ -1,4 +1,4 @@
-import img from './IMG_0004.jpeg';
+import img from './lala.jpeg';
 import './App.css';
 
 function App() {
